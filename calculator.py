@@ -7,3 +7,6 @@ def subtract(a, b):
 if __name__ == "__main__": 
     print(add(5, 3)) 
     print(subtract(5, 3)) 
+    print(multiply(5, 3)) 
+def multiply(a, b):
+    return a * b
